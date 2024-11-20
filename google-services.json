@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "143601463097",
+    "firebase_url": "https://music-e54e0-default-rtdb.firebaseio.com",
+    "project_id": "music-e54e0",
+    "storage_bucket": "music-e54e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143601463097:android:dcadbd76cac9e5812942e8",
+        "android_client_info": {
+          "package_name": "com.MUSICAPP.HEPIUS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA-Hc9JYZyC6ss-2-2uWbk1XoKZtsKIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

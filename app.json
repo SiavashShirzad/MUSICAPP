@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "MUSICAPP",
+    "slug": "MUSICAPP",
+    "entryPoint": "./App.js",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "googleServiceFile":"./GoogleService-Info.plist",
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServiceFile":"./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.MUSICAPP.HEPIUS"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
